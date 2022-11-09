@@ -1,7 +1,4 @@
-import ba.unsa.etf.rpr.TelefonskiBroj;
-
-import java.util.SplittableRandom;
-
+package ba.unsa.etf.rpr;
 
 
 import java.util.Objects;

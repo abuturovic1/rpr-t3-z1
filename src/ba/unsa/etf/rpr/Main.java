@@ -1,3 +1,5 @@
+package ba.unsa.etf.rpr;
+
 import ba.unsa.etf.rpr.FiksniBroj;
 import ba.unsa.etf.rpr.Grad;
 import ba.unsa.etf.rpr.Imenik;
